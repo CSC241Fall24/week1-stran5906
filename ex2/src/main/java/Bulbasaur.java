@@ -53,7 +53,7 @@ public class Bulbasaur {
     @Override
     public String toString() {
         // Return a string representation of the Bulbasaur object
-        return "level : " + level + "\tid : " + id ; // Placeholder return value
+        return "Level: " + level + ", ID: " + id ; // Placeholder return value
     }
 
     // equals method
